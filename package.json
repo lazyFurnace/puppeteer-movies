@@ -1,0 +1,22 @@
+{
+  "name": "puppeteer-movies",
+  "version": "1.0.0",
+  "description": "puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liqiUser/puppeteer-movies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liqiUser/puppeteer-movies/issues"
+  },
+  "homepage": "https://github.com/liqiUser/puppeteer-movies#readme",
+  "dependencies": {
+    "puppeteer": "^1.9.0"
+  }
+}
